@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_firebase_test">
+    package="io.caolingxin.flutterfirebasetest">
    <application
         android:label="flutter_firebase_test"
         android:icon="@mipmap/ic_launcher">
