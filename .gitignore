@@ -1,6 +1,8 @@
 # Firebase
 android/app/google-service.json
 ios/Runner/GoogleService-Info.plist
+flutter_firebase_test/ios/Runner/GoogleService-Info.plist
+flutter_firebase_test/android/app/google-service.json
 
 # Miscellaneous
 *.class
