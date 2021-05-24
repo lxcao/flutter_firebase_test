@@ -2,7 +2,7 @@
  # @Author: clingxin
  # @Date: 2021-05-24 10:12:55
  # @LastEditors: clingxin
- # @LastEditTime: 2021-05-24 10:38:55
+ # @LastEditTime: 2021-05-24 11:04:26
  # @FilePath: /flutter_firebase_test/scripts.sh
 ###
 # android
@@ -22,6 +22,7 @@
 # in firebase console
 1, register app for ios with same applicationID
 2, download GoogleService-Info.plist into xcode/Runner/Runner, make sure check the "Copy items if needed"
+3, change platform 9.0 to 10.0 in Podfile
 
 # provision firestore database for test
 1, setup the database in test mode
