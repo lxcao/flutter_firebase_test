@@ -1,6 +1,6 @@
 # Firebase
-android/app/google-service.json
-ios/Runner/GoogleService-Info.plist
+/android/app/google-service.json
+/ios/Runner/GoogleService-Info.plist
 
 # Miscellaneous
 *.class
